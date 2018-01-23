@@ -8,4 +8,5 @@
 Для запуска тестов:
 1) cd <path-to-project>
 2) ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/TextWizardTest
+   ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/TextMasterTest
 3) в CLI проверьте результат
